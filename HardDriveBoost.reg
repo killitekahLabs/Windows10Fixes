@@ -1,0 +1,3 @@
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\control\FileSystem]
+"DriveWriteBehind"=hex:ff,ff,ff,ff
+"ReadAheadThreshold"=hex:ff,ff,ff,ff

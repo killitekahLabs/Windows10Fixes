@@ -1,0 +1,5 @@
+[HKEY_CURRENT_USER\Control Panel\desktop]
+"HungAppTimeout"="1"
+"WaitToKillAppTimeout"="1"
+"AutoEndTasks"="1"
+"MenuShowDelay"="0"

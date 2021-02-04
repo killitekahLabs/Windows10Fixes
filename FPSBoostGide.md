@@ -29,3 +29,5 @@ Navigate to the HKEY_LOCAL_MACHINE\SYSTEM\
 2. Right-click the LargeSystemCache item and select Modify.
 3. In the Edit DWORD dialog box, change the value to 1.
 4. Click OK.
+
+Last Of This Task Restart Your PC

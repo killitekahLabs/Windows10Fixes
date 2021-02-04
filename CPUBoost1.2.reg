@@ -1,0 +1,5 @@
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\VxD\BIOS]
+"CPUPriority"=dword:1
+"FastDRAM"=dword:1
+"PCIconcur"=dword:1
